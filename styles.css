@@ -1,0 +1,13 @@
+div {
+    border: 1px solid blue;
+    padding: 25px;
+}
+img {
+    border-radius: 50px;
+}
+h2 {
+    font-family: 'Koulen', cursive;
+}
+li {
+    margin: 10px;
+}
